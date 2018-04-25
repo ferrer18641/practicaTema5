@@ -1,0 +1,10 @@
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\TTL\Source\Repos\practicaTema5\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
